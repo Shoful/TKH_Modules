@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700');
+
+body{
+  color: rgb(190, 17, 233);
+  background: url(https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/87244786_2434093443364024_1563718131283656704_n.png?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=pRt6SvcHM-4AX-ux-8i&_nc_ht=scontent-lga3-1.xx&oh=054cf750f920b1263f343a1ba8644a23&oe=613D0999);
+  font-family: 'Oswald', Helvetica, sans-serif;
+  font-size: 16px;
+  background-size: contain;
+
+
+  
+}
+
+.purple{
+  color: rgb(190, 17, 233);
+}
+
+h1{
+  font-size: 4em;
+  padding: .25em;
+  letter-spacing: -5px;
+  text-decoration: underline;
+  
+}
+
+h3 {
+  font-size: 3em;
+  padding: .25em;
+  letter-spacing: -4px;
+  text-decoration: underline;
+  font-style: oblique 90deg;
+  
+
+}
+
+@media (max-width: 550px) {
+  h3 {
+    letter-spacing: .25em;
+  }
+}
+
+footer{
+  padding: 40px;
+}
+
+
+
