@@ -1,0 +1,32 @@
+My application is a tool where after scanning a person's body in our inhouse main facility or 3rd party facilties. All types 
+of illnesses, cancers, deficiences are diagnosed and identified throughly and accurately to prevent any harm to the 
+body in addition to improving health as well. The app will download results from scanning and will be readily 
+accessible to users to use anytime to look at internal body images either as 2d images or 3d renderings where the 
+user can go in depth to look at organs and other body parts. Also the app will have the ability to suggest best practices 
+for their conditions such as what vitamins are needed, quick checkout access to buy needed or suggested vitamins. 
+Additionally if a user needs to do certain excercises and movements then the app will relay that information and on a
+alerted schedule if needed. The main thing that sets us apart from other companies and other services is that I want it
+to be as easily accessible as a bodega or Mcdonalds. The apps mainstay is the needed scanning of the body which
+for the time being, it will be called "The Screener". The Screener goes beyond physical checkups and blood exams 
+to penetrate what the eyes cannot see and what routine exams cannot detect. The app should also be able to book
+appointments to doctors through our curated and vetted assortment of doctors whom are one the main appeals of the
+app because many doctors now a days are not people friendly, lack emotional intelligence and are not upto par with 
+contemporary treatments and overall best practices. The app wants to eliminate the fear of malpractice, arrogance,
+tenured but outdated practices. 
+
+
+The problem facing many people around the world is lack of access to the knowledge and implementation of good
+health practices, as well as lack of resources to treat sicknesses and ailments. The effects of these problems are many
+deaths and loss of health that couldv'e been prevented with due care and early detection. In the health care field 
+there is a saying that "prevention is the best medicine" and I firmly believe that early detection of even the slightest 
+possible harm can save people from bigger problems later. Everyone across the world is affected by lack of health care
+and resources but the most vulnerable are those facing poverty. 
+
+The app is focused on fixing and or eliminating the root causes of many of socities health problems which are the high costs of treatment, 
+lack of facilities in certain areas, overcomplications of health such as doctor visits, referalls, wait times, travel and appointments. 
+
+The MVP or Minimal Viable Product is an app named Robust-i. The name stems from robust which is defined as strong, healthy and
+vigorous. The app should download and connect the results of a full body scan using MRI(Magnetic resonance imaging) automatically. 
+It will allow users to be notified of any sort of outlier or discrepency in the body and the this will be done by comparing a users data to 
+an array of average healthy bodies for accurate interpretation because comparing to single data isnt accurate. The app will detect cancer,
+lack of nutrients, hormonal imbalances, lack of essential body components and detections of ailments and sicknesses. 
